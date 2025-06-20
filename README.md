@@ -12,7 +12,7 @@ Scrapes verified national public holidays from [timeanddate.com](https://www.tim
 
 ## 📷 Example Usage
 
-![Screenshot of terminal output](Screenshot%202025-06-20%20at%2022.08.54.png)
+![Screenshot of terminal output](terminal-output.png)
 
 ## 📦 Requirements
 
